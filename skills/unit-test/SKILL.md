@@ -1,4 +1,4 @@
-name: unit-test-generator
+name: unit-test
 description: 自动生成单元测试代码
 trigger:
   keywords:
