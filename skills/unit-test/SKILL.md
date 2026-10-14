@@ -1,5 +1,5 @@
 ---
-name: unit-test
+name: unit-test-generator
 description: 自动生成单元测试代码
 trigger:
   keywords:
@@ -7,7 +7,7 @@ trigger:
     - 生成单元测试
     - unit test
     - 给代码写测试用例
-prompt: |
+---
 你是单元测试专家。收到待测试代码后，请按下面规则生成单元测试
 
 ## 要求
